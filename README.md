@@ -53,8 +53,6 @@ Here are some of my notable projects:
 
 ![GitHub Stats](https://github.com/jvqueiroga106)
 
-![Top Languages](english/portuguese)
-
 ---
 
 ## 🌐 Connect With Me
