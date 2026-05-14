@@ -51,9 +51,9 @@ Here are some of my notable projects:
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvqueiroga106&show_icons=true&theme=radical)
+![GitHub Stats](https://github.com/jvqueiroga106)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvqueiroga106&layout=compact&theme=radical)
+![Top Languages](english/portuguese)
 
 ---
 
