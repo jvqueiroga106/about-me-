@@ -1,15 +1,3 @@
-# about-me-
-algumas informações sobre mim e a minha vida pessoal.
-meu nome é João victor . Faço ciência da computação no Uniceub.
-
-
-
-linkedin:🔗:https://www.linkedin.com/in/jo%C3%A3o-queiroga-40a9a33b4/?skipRedirect=true
-
-+55 61 98357 2308
-
-joaovictorsaq@gmail.com
-
 
 # Hi there! 👋
 
