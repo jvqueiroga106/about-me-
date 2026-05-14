@@ -11,20 +11,107 @@ linkedin:🔗:https://www.linkedin.com/in/jo%C3%A3o-queiroga-40a9a33b4/?skipRedi
 joaovictorsaq@gmail.com
 
 
-Olá! Sou o João Victor Queiroga, estudante de tecnologia pelo UniCEUB (Brasília), apaixonado por inovação e aprendizado contínuo. Possuo conhecimentos sólidos em Python (certificação pela Univ. de Michigan) e estou aprofundando meus estudos em Machine Learning e Bancos de Dados.
-Meus principais diferenciais incluem:
-Atualização constante: Participação ativa em eventos do setor, como workshops do Google sobre IA (Gemini).
-Soft Skills: Inglês avançado (C1), excelente comunicação e facilidade para o trabalho colaborativo.
-Mindset de resultado: Aplico nos estudos e na programação a mesma disciplina e resiliência que cultivo no esporte e na musculação.
-Busco minha primeira oportunidade no mercado de tecnologia, onde eu possa aplicar meus conhecimentos técnicos na prática, somar forças com a equipe e crescer profissionalmente.
+# Hi there! 👋
 
-Sou o tipo de pessoa que encontra equilíbrio entre a lógica e o movimento: sou fascinado por matemática e, ao mesmo tempo, completamente apaixonado por esportes, tendo a academia como meu principal hobby e fonte de disciplina diária. Gosto muito de viajar e explorar novas culturas ao redor do mundo. Aliás, é por isso que o meu maior sonho é ultrapassar fronteiras e trabalhar fora do Brasil, construindo uma carreira internacional."
+I'm **jvqueiroga106**, a passionate developer and tech enthusiast.
 
-projetos e habilidades:
--Calculadora em Python | (2026)
--Desenvolvimento de uma aplicação para operações matemáticas utilizando Python. O projeto focou na aplicação prática de lógica de programação, criação de funções estruturadas e controle de fluxo.
- -Ótima comunicação, facilidade para o trabalho em equipe, alto senso de responsabilidade e vontade de aprender.
--Programação em Python, Lógica de Programação, noções básicas de Machine Learning e Banco de Dados
+## About Me
+
+Welcome to my GitHub profile! I'm committed to building innovative solutions and contributing to the developer community. I love exploring new technologies, collaborating on interesting projects, and sharing knowledge with others.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Languages
+- Python
+- Java
+
+
+### Tools & Frameworks
+- Git & GitHub
+- Databases
+
+
+### Specializations
+- Problem Solving
+- Team Collaboration
+- Continuous Learning
+
+---
+
+## 💼 Professional Highlights
+
+- 🎯 Focused on writing clean, maintainable code
+- 🚀 Passionate about building scalable applications
+- 🤝 Strong believer in open-source collaboration
+- 📚 Always learning and staying updated with industry trends
+
+---
+
+## 📌 Featured Projects
+
+Here are some of my notable projects:
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [Project 1]
+| [Project 2]
+| [Project 3]
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvqueiroga106&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvqueiroga106&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [[(https://www.linkedin.com/in/jo%C3%A3o-queiroga-40a9a33b4/?skipRedirect=true)]](#)
+- 📧 Email: [joaovictorsaq@gmail.com](#)
+- 🌍 Portfolio: [https://sites.google.com/d/1mzMrQ8Nm8SYv-0GjAIHn7y6eaNQIOL3T/p/1vugssrLwALOTWWS9dgDIApw7JV28xR8Z/edit](#)
+
+---
+
+## 📈 Current Goals
+
+- 🔍 Exploring **[java]**
+- 🛠️ Contributing to **[]**
+- 📖 Learning **[java/c++]**
+- 🤖 Building **[]**
+
+---
+
+## 💡 Quick Facts
+
+- 🎓 **Background:** [Uniceub]
+- 🏢 **Experience:** []
+- 🎯 **Interests:** [learn more,put my apprentice in practice ]
+- ⚡ **Fun Fact:** [Beyond the screen, I'm a sports and fitness enthusiast. The discipline and consistency I build in physical training directly drive my growth in programming]
+
+---
+
+
+---
+
+<div align="center">
+
+### Let's collaborate! 🚀
+
+Feel free to reach out if you're interested in working together or just want to chat about tech.
+
+**Thank you for visiting my profile!** ⭐
+
+</div>
+
+---
+
+*Last Updated: 2026-05-14*
+
 
 
 
